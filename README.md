@@ -3,7 +3,7 @@ This repository contains the Toolkit for _**“Improving Professional Developmen
 
 **Principal investigator:** A/P Goh Yang Miang
 
-**Project Team:** Dr Juliana Tay, Dr Punyawee Anunpattana, Dr Hu Xinping, Ms Sufiana Safiena, Mr Jiang Chen
+**Project Team:** Dr Juliana Tay, Dr Punyawee Anunpattana, Ms Hu Xinping, Ms Sufiana Safiena, Mr Jiang Chen
 
 ## Project Information
 This project is funded by **SkillsFuture Singapore under the Workforce Development Applied Research Fund (WDARF) grant (GA21-04)**. This project is approved by National University of Singapore (NUS) Institutional Review Board (IRB) under **NUS-IRB-2022-156**. 
