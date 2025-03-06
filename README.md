@@ -8,11 +8,6 @@ This repository contains the Toolkit for _**“Improving Professional Developmen
 ## Project Information
 This project is funded by **SkillsFuture Singapore under the Workforce Development Applied Research Fund (WDARF) grant (GA21-04)**. This project is approved by National University of Singapore (NUS) Institutional Review Board (IRB) under **NUS-IRB-2022-156**. 
 
-## Usage
-You can access each sheet individually for your analysis. The legend sheet should be referred to in order to understand the variables and their meanings before proceeding with any analysis. 
-
-The dataset is suitable for quantitative analysis, such as statistical modelling or machine learning. It can be used to explore relationships between various educational approaches, including the effectiveness of DGBL.
-
 ## Credit
 Please provide credit if you use this dataset in your work. 
 > **Anunpattana, P., Hu, X., Safiena, S., Tay, J., Goh, Y. M. (2025).** Adaptive learning system for professional development toolkit. National University of Singapore (NUS). [https://github.com/NUS-DBE/ALS-Toolkit][1]
