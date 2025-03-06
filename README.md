@@ -14,6 +14,10 @@ Please provide credit if you use this dataset in your work.
 
 ## Contact
 You can contact us at [bdgbox34@nus.edu.sg][2] if you have any questions about the Toolkit or the project. 
+For KUR and AQ-specific queries, please contact [Dr. Punyawee Anunpattana][3].
+For PF-specific queries, please contact [Ms. Hu Xinping][4].
 
 [1]:	https://github.com/NUS-DBE/ALS-Toolkit
 [2]:	mailto:bdgbox34@nus.edu.sg
+[3]:  https://github.com/bellpunyawee
+[4]:  https://github.com/xinpingh
