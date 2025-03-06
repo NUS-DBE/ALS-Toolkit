@@ -1,4 +1,4 @@
-# Adaptive Learning System for Professional Development Toolkit
+# Adaptive Learning System (ALS) for Professional Development (PD) Toolkit
 This repository contains the Toolkit for _**“Improving Professional Development through an Intelligent Adaptive Learning Approach: An In-Depth Study on Construction Project Managers”**_ project. The Toolkit is intended to provides course developers, instructional designers, and learning administrators with a structured framework for designing and implementing adaptive learning strategies in professional development (PD) settings.
 
 **Principal investigator:** A/P Goh Yang Miang
